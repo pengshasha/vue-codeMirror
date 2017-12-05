@@ -1,5 +1,5 @@
 {
-  "name": "vue-codemirror",
+  "name": "my-vue-codemirror",
   "version": "1.0.0",
   "description": "a vue-codemirror demo",
   "author": "pengshasha <463284990@qq.com>",
@@ -11,6 +11,7 @@
   },
   "dependencies": {
     "vue": "^2.5.2",
+    "vue-codemirror": "^3.1.8",
     "vue-router": "^3.0.1"
   },
   "devDependencies": {
